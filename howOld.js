@@ -21,7 +21,7 @@ const howOld = (age, year) => {
 };
 
 
-console.log(howOld(40,2072));
+console.log(howOld(33,2072));
 
 
 
